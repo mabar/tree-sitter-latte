@@ -1,6 +1,6 @@
 # tree-sitter-latte
 
-This is a soft fork of [Tree sitter HTML](https:://github.com/tree-sitter/tree-sitter-html)
+This is a soft fork of [Tree sitter HTML](https://github.com/tree-sitter/tree-sitter-html)
 
 ## Usage (helix)
 
